@@ -1,0 +1,27 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Ce repo contient une appli express.js de type \"Hello World\" pour tester le déploiement.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rcohl/expressjs.git"
+  },
+  "keywords": [
+    "appli",
+    "teste",
+    "déploiement"
+  ],
+  "author": "Rcohl <corentin.orczyk@outlook.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rcohl/expressjs/issues"
+  },
+  "homepage": "https://github.com/Rcohl/expressjs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
